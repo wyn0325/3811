@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (D:\Qt\5.13.1\msvc2017\bin\qmake.exe)
+  moc glwidget.h
+  moc MainWindow.h
+  glwidget.cpp
+  main.cpp
+  MainWindow.cpp
+  qrc_QtGuiApplication1.cpp
+  moc_glwidget.cpp
+  moc_MainWindow.cpp
+  QtGuiApplication1.vcxproj -> E:\VSprojects\cg2\Win32\Debug\QtGuiApplication1.exe
